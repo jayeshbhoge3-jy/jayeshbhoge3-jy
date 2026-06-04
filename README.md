@@ -1,14 +1,6 @@
 <div align="center">
 
-```
-     ██╗ █████╗ ██╗   ██╗███████╗███████╗██╗  ██╗
-     ██║██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝██║  ██║
-     ██║███████║ ╚████╔╝ █████╗  ███████╗███████║
-██   ██║██╔══██║  ╚██╔╝  ██╔══╝  ╚════██║██╔══██║
-╚█████╔╝██║  ██║   ██║   ███████╗███████║██║  ██║
- ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
-                                   BHOGE
-```
+<img src="https://raw.githubusercontent.com/jayeshbhoge3-jy/jayeshbhoge3-jy/main/jayesh_glow.svg" alt="JAYESH BHOGE" width="100%"/>
 
 ### 🚀 Software Engineer · Full Stack Developer · AI Enthusiast
 
@@ -25,20 +17,58 @@
 
 ## 👋 About Me
 
-```yaml
-name: Jayesh Bhoge
-location: Pune, India 🇮🇳
-education: B.E. Computer Science @ MMIT (2021–2025)
-role: Software Developer @ Creative Web Solution
-interests:
-  - Software Engineering 💼
-  - Full Stack Web Development
-  - AI / ML Systems
-  - Cloud & DevOps
-  - Algorithm Visualization
-currently_building: "Things that matter 🔨"
-available_for: Full-time roles & freelance projects
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧑‍💻 Who Am I?
+
 ```
+ ╔══════════════════════════════════╗
+ ║  Name   →  Jayesh Bhoge          ║
+ ║  From   →  Pune, India  🇮🇳       ║
+ ║  Degree →  B.E. CS @ MMIT        ║
+ ║  Role   →  Software Developer    ║
+ ║  Co.    →  Creative Web Solution ║
+ ╚══════════════════════════════════╝
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 What Drives Me?
+
+| 💼 | Software Engineering |
+|---|---|
+| 🌐 | Full Stack Development |
+| 🤖 | AI / ML Systems |
+| ☁️ | Cloud & DevOps |
+| 📊 | Algorithm Visualization |
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### ⚡ Currently
+
+> 🔨 **Building** things that matter  
+> 📖 **Learning** cloud-native & AI  
+> 🎯 **Goal** — Land an impactful SWE role
+
+</td>
+<td valign="top">
+
+### 📬 Open To
+
+![Fulltime](https://img.shields.io/badge/Full--time_Roles-00C853?style=flat-square&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance_Projects-00D9FF?style=flat-square&logoColor=white)
+![Collabs](https://img.shields.io/badge/Open_Source_Collabs-a855f7?style=flat-square&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-FF6B6B?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -165,9 +195,6 @@ available_for: Full-time roles & freelance projects
 ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jayeshbhoge3-jy/AlgoVisualizer)
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
