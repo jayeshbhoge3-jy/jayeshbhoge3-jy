@@ -1,0 +1,57 @@
+<svg width="800" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="5" result="blur1"/>
+      <feGaussianBlur stdDeviation="10" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softglow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff7"/>
+      <stop offset="40%" stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#00D9FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00fff7" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="130" fill="#0d1117" rx="12"/>
+
+  <!-- particles -->
+  <circle cx="60" cy="20" r="1.5" fill="#00D9FF" opacity="0.4"><animate attributeName="opacity" values="0.4;0;0.4" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="740" cy="30" r="1" fill="#a855f7" opacity="0.5"><animate attributeName="opacity" values="0.5;0;0.5" dur="1.7s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="115" r="1.5" fill="#a855f7" opacity="0.3"><animate attributeName="opacity" values="0.3;0;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="680" cy="105" r="1" fill="#00fff7" opacity="0.4"><animate attributeName="opacity" values="0.4;0;0.4" dur="1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="400" cy="12" r="1.2" fill="#00D9FF" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+
+  <!-- outer bloom -->
+  <text x="400" y="95" text-anchor="middle" font-family="'Courier New',monospace" font-size="86" font-weight="900" letter-spacing="16" fill="url(#g2)" filter="url(#softglow)">
+    JAYESH
+    <animate attributeName="opacity" values="0.5;0.8;0.5;0.7;0.5" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- main glowing text -->
+  <text x="400" y="95" text-anchor="middle" font-family="'Courier New',monospace" font-size="86" font-weight="900" letter-spacing="16" fill="url(#g1)" filter="url(#glow)">
+    JAYESH
+    <animate attributeName="opacity" values="1;0.75;1;0.88;1;0.92;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- BHOGE subtitle -->
+  <text x="400" y="120" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" font-weight="400" letter-spacing="14" fill="#00D9FF">
+    B H O G E
+    <animate attributeName="opacity" values="0.6;0.3;0.6;0.4;0.6" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
