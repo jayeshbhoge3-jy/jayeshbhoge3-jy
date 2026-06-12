@@ -4,7 +4,7 @@
 
 ### 🚀 Software Engineer · Full Stack Developer · AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BC;Full+Stack+Developer+%F0%9F%92%BB;React+%2B+Next.js+%2B+Flask+%2B+Docker;Building+cool+stuff+with+AI+%F0%9F%A4%96;Open+to+work+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BC;Full+Stack+Developer+%F0%9F%92%BB;React+%2B+Next.js+%2B+FastAPI+%2B+Docker;Building+cool+stuff+with+AI+%F0%9F%A4%96;Open+to+work+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-bhoge-1b246a267)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayeshbhoge3-jy)
@@ -96,6 +96,7 @@
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
@@ -141,6 +142,47 @@
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### 🧠 ResumeIQ
+**AI-Powered Resume Analyzer & ATS Scorer**
+
+- 🎯 ATS score based on keywords, format, impact & alignment
+- 🔍 Keyword gap analysis using **spaCy NLP**
+- 🤖 Weak bullet auto-rewrite via **Groq LLaMA-3 70B**
+- 📊 Full scan history with score tracking
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://resume-iq-eight-self.vercel.app/)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jayeshbhoge3-jy/resumeiq)
+
+</td>
+<td width="50%">
+
+### ⚡ SnippetVault
+**Developer Code Snippet Manager SaaS**
+
+- 🔐 GitHub OAuth login + JWT authentication
+- 🔍 Full-text PostgreSQL search (tsvector)
+- 🎨 Syntax highlighting for 20+ languages via Shiki
+- 🔗 One-click public sharing with view count tracking
+- 🚦 Redis sliding window rate limiting
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jayeshbhoge3-jy/snippetvault)
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -195,6 +237,9 @@
 ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jayeshbhoge3-jy/AlgoVisualizer)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
